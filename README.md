@@ -8,7 +8,7 @@ Projeto TOTVS Leilão
 
 Antes de começar, você vai precisar ter instalado em sua máquina alguma ferramenta de interpratação de código.
 
-📋 Pré-requisitos
+### 📋 Pré-requisitos
 
 Para o desenvolvimento deste projeto eu utilizei o Eclipse em sua respectiva versão:
 
@@ -25,7 +25,7 @@ Para o desenvolvimento deste projeto eu utilizei o Eclipse em sua respectiva ver
 A linguagem escolhida para desenvolvimento e criação do framework foi Java + Selenium.
 
 
-🔧 Instalação
+### 🔧 Instalação
 
 É importante que se faça do download do da versão do Chromedriver compatível com a versão do seu navegador do Google Chrome no link: https://chromedriver.chromium.org/downloads
 
@@ -47,7 +47,7 @@ A linguagem escolhida para desenvolvimento e criação do framework foi Java + S
 *obs: Verificar a necessidade de baixar as bibliotecas do JUnit entre versões 4 e 5.
 
 
-⚙️ Executando os testes
+### ⚙️ Executando os testes
 Explicar como executar os testes automatizados para este sistema.
 
 🔩 Analise os testes de ponta a ponta
