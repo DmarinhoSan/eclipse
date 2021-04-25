@@ -13,9 +13,13 @@ Antes de começar, você vai precisar ter instalado em sua máquina alguma ferra
 Eu utilizei a versão mais recente do Eclipse que é:
 
 Eclipse IDE for Java Developers (includes Incubating components)
+
 Version: 2021-03 (4.19.0)
+
 Build id: 20210312-0638
+
 OS: Windows 10, v.10.0, x86_64 / win32
+
 Java version: 15.0.2
 
 A linguagem escolhida para desenvolvimento e criação do framework foi Java + Selenium
