@@ -22,7 +22,7 @@ Para o desenvolvimento deste projeto eu utilizei o Eclipse em sua respectiva ver
 
 - Java version: 15.0.2
 
-A linguagem escolhida para desenvolvimento e criação do framework foi Java + Selenium.\
+A linguagem escolhida para desenvolvimento e criação do framework foi Java + Selenium.  \\
 
 
 
