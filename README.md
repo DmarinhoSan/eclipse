@@ -23,7 +23,7 @@ Para o desenvolvimento deste projeto eu utilizei o Eclipse em sua respectiva ver
 
 - Java version: 15.0.2
 
-A linguagem escolhida para desenvolvimento e criação do framework foi Java + Selenium
+A linguagem escolhida para desenvolvimento e criação do framework foi Java + Selenium.
 
 
 🔧 Instalação
@@ -38,9 +38,10 @@ A linguagem escolhida para desenvolvimento e criação do framework foi Java + S
 
 - Em URI você insere o link: https://github.com/DmarinhoSan/eclipse.git e o preenchimento de outros campos será feito automático.
 
-- Depois em Authentication, você deve inserir o seu usuário e senha do git e clicar em next;
+- Depois em Authentication, você deve inserir o seu usuário e senha do git e clicar em Next;
 - Em seguida deixar a branch master selecionada;
-- Por fim apontar o diretório aonde o projeto ficará em sua máquina.
+- E apontar o diretório aonde o projeto ficará em sua máquina;
+- E por fim deixar selecionado Import using the New Project wizard e clicar em Finish
 
 
 
