@@ -26,7 +26,7 @@ A linguagem escolhida para desenvolvimento e criação do framework foi Java + S
 
 🔧 Instalação
 
-É importante que se faça do download do Chromedriver no link: https://chromedriver.chromium.org/downloads e verificar a versão compatível ao seu navegador.
+É importante que se faça do download do da versão do Chromedriver compatível com a versão do seu navegador do Google Chrome no link: https://chromedriver.chromium.org/downloads
 
 ⚙️ Executando os testes
 Explicar como executar os testes automatizados para este sistema.
