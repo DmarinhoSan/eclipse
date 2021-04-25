@@ -24,6 +24,11 @@ Para o desenvolvimento deste projeto eu utilizei o Eclipse em sua respectiva ver
 
 A linguagem escolhida para desenvolvimento e criação do framework foi Java + Selenium.
 \
+\
+\
+\
+\
+\
 
 ### 🔧 Instalação
 
