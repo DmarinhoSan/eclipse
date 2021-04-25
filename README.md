@@ -41,27 +41,11 @@ A linguagem escolhida para desenvolvimento e criação do framework foi Java + S
 - Depois em Authentication, você deve inserir o seu usuário e senha do git e clicar em Next;
 - Em seguida deixar a branch master selecionada;
 - E apontar o diretório aonde o projeto ficará em sua máquina;
-- E por fim deixar selecionado Import using the New Project wizard e clicar em Finish
+- E por fim deixar selecionado Import using the New Project wizard e clicar em Finish;
+- Selecionar o Java Project e clicar em Next;
+- Verificar as informações do projeto a ser criado e inserir o nome no Projeto (project name) e clicar em next;
 
-
-
-
-
-Arquivo -> Importar -> Git -> Projetos do Git> URI
-
-Digite o URL do repositório do Github
-
-Selecione a filial
-
-
-
-
-
-
-
-
-
-
+*obs: Verificar a necessidade de baixar as bibliotecas do JUnit entre versões 4 e 5.
 
 
 ⚙️ Executando os testes
