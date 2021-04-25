@@ -30,6 +30,40 @@ A linguagem escolhida para desenvolvimento e criação do framework foi Java + S
 
 É importante que se faça do download do da versão do Chromedriver compatível com a versão do seu navegador do Google Chrome no link: https://chromedriver.chromium.org/downloads
 
+Procure a pasta 'C:\Drivers' com o arquivo do Chromedriver extraído e cole nela.
+
+Abra o eclipse
+
+Clique em File -> Import -> Git -> Project from Git > Clone URI e clique em Next
+
+
+Em URI você insere o link: https://github.com/DmarinhoSan/eclipse.git e o preenchimento de outros campos será feito automático.
+
+Depois em Authentication, você deve inserir o seu usuário e senha do git e clicar em next;
+Em seguida deixar a branch master selecionada;
+Por fim apontar o diretório aonde o projeto ficará em sua máquina.
+
+
+
+
+
+Arquivo -> Importar -> Git -> Projetos do Git> URI
+
+Digite o URL do repositório do Github
+
+Selecione a filial
+
+
+
+
+
+
+
+
+
+
+
+
 ⚙️ Executando os testes
 Explicar como executar os testes automatizados para este sistema.
 
