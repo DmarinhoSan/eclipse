@@ -24,17 +24,9 @@ Para o desenvolvimento deste projeto eu utilizei o Eclipse em sua respectiva ver
 
 A linguagem escolhida para desenvolvimento e criação do framework foi Java + Selenium
 
-Dar exemplos
 🔧 Instalação
-Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
 
-Diga como essa etapa será:
-
-Dar exemplos
-E repita:
-
-Até finalizar
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
+É importante que se faça do download do Chromedriver no link: https://chromedriver.chromium.org/downloads e verificar a versão compatível ao seu navegador.
 
 ⚙️ Executando os testes
 Explicar como executar os testes automatizados para este sistema.
