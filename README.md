@@ -45,7 +45,6 @@ A linguagem escolhida para desenvolvimento e criação do framework foi Java + S
 
 *obs: Verificar a necessidade de baixar as bibliotecas do JUnit entre versões 4 e 5.
 
-
 ### ⚙️ Executando os testes
 - Basta acessar o projeto e acessar a package de testes (tests) e selecionar dar um duplo clique em uma das classes.
 
@@ -56,7 +55,7 @@ A linguagem escolhida para desenvolvimento e criação do framework foi Java + S
 - E será aberta uma aba do Google Chrome totalmente controlada pela automação.
 
 - Ao final JUnit dará uma resposta se o teste executou com sucesso ou não.
-- 
+
 ### 🔩 Analise os testes de ponta a ponta
 A ideia dos testes são validar o canal de leilão proposto pelo desafio. Ao todo são 4 casos de testes automatizados.
 - Criação de um conta para logar no canal
@@ -65,40 +64,12 @@ A ideia dos testes são validar o canal de leilão proposto pelo desafio. Ao tod
 - Fechamento de um item para o leilão.
 
 
-Explique que eles verificam esses testes e porquê.
+### 📌 Versão
+Durante a execução dos testes alguns bugs e propostas de melhorias foram notados. 
 
-Dar exemplos
-⌨️ E testes de estilo de codificação
-Explique que eles verificam esses testes e porquê.
+### ✒️ Autores
+Douglas Henrique Marinho dos Santos - QA
 
-Dar exemplos
-📦 Desenvolvimento
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
-
-🛠️ Construído com
-Mencione as ferramentas que você usou para criar seu projeto
-
-Dropwizard - O framework web usado
-Maven - Gerente de Dependência
-ROME - Usada para gerar RSS
-🖇️ Colaborando
-Por favor, leia o COLABORACAO.md para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
-
-📌 Versão
-Nós usamos SemVer para controle de versão. Para as versões disponíveis, observe as tags neste repositório.
-
-✒️ Autores
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
-
-Um desenvolvedor - Trabalho Inicial - umdesenvolvedor
-Fulano De Tal - Documentação - fulanodetal
-Você também pode ver a lista de todos os colaboradores que participaram deste projeto.
-
-📄 Licença
-Este projeto está sob a licença (sua licença) - veja o arquivo LICENSE.md para detalhes.
-
-🎁 Expressões de gratidão
-Conte a outras pessoas sobre este projeto 📢
-Convide alguém da equipe para uma cerveja 🍺
+### 🎁 Expressões de gratidão
+Desafio bem interessante proposto para um entrevista de emprego pela TOTVS (04/2021).
 Obrigado publicamente 🤓.
-etc.
