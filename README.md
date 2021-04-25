@@ -48,7 +48,15 @@ A linguagem escolhida para desenvolvimento e criação do framework foi Java + S
 
 
 ### ⚙️ Executando os testes
-Explicar como executar os testes automatizados para este sistema.
+Basta acessar o projeto e acessar a package de testes (tests) e selecionar dar um duplo clique em uma das classes.
+
+Em seguida, poderá ver toda a estrutura do código.
+
+Agora clique com botão direito Run As > JUnit Test (Alt + Shift + X, T)
+
+E será aberta uma aba do Google Chrome totalmente controlada pela automação.
+
+Ao final JUnit dará uma resposta se o teste executou com sucesso ou não.
 
 🔩 Analise os testes de ponta a ponta
 Explique que eles verificam esses testes e porquê.
