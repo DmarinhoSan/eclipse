@@ -4,12 +4,10 @@ Projeto TOTVS Leilão
 ### Pré-requisitos
 
 
-🚀 Começando
+### 🚀 Começando
 
 Antes de começar, você vai precisar ter instalado em sua máquina alguma ferramenta de interpratação de código.
--
--
--
+
 📋 Pré-requisitos
 
 Para o desenvolvimento deste projeto eu utilizei o Eclipse em sua respectiva versão:
