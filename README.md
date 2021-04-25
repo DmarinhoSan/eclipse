@@ -22,9 +22,7 @@ Para o desenvolvimento deste projeto eu utilizei o Eclipse em sua respectiva ver
 
 - Java version: 15.0.2
 
-A linguagem escolhida para desenvolvimento e criação do framework foi Java + Selenium.  \\
-
-
+A linguagem escolhida para desenvolvimento e criação do framework foi Java + Selenium.
 
 ### 🔧 Instalação
 
@@ -58,8 +56,15 @@ A linguagem escolhida para desenvolvimento e criação do framework foi Java + S
 - E será aberta uma aba do Google Chrome totalmente controlada pela automação.
 
 - Ao final JUnit dará uma resposta se o teste executou com sucesso ou não.
-###
+- 
 ### 🔩 Analise os testes de ponta a ponta
+A ideia dos testes são validar o canal de leilão proposto pelo desafio. Ao todo são 4 casos de testes automatizados.
+- Criação de um conta para logar no canal
+- Criação de um item para leilão
+- Criação de uma proposta para um item do leilão
+- Fechamento de um item para o leilão.
+
+
 Explique que eles verificam esses testes e porquê.
 
 Dar exemplos
