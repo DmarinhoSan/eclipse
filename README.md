@@ -6,11 +6,11 @@ Projeto TOTVS Leilão
 
 🚀 Começando
 
-Antes de começar, você vai precisar ter instalado em sua máquina alguma ferramenta de interpratação de código,
+Antes de começar, você vai precisar ter instalado em sua máquina alguma ferramenta de interpratação de código.
 
 📋 Pré-requisitos
 
-Eu utilizei a versão mais recente do Eclipse que é:
+Para o desenvolvimento deste projeto eu utilizei o Eclipse em sua respectiva versão:
 
 Eclipse IDE for Java Developers (includes Incubating components)
 
