@@ -57,8 +57,8 @@ A linguagem escolhida para desenvolvimento e criação do framework foi Java + S
 - E será aberta uma aba do Google Chrome totalmente controlada pela automação.
 
 - Ao final JUnit dará uma resposta se o teste executou com sucesso ou não.
-
-🔩 Analise os testes de ponta a ponta
+###
+### 🔩 Analise os testes de ponta a ponta
 Explique que eles verificam esses testes e porquê.
 
 Dar exemplos
